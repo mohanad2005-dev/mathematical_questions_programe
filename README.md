@@ -112,4 +112,4 @@ Math_Quiz/
 
 ## 👨‍💻 Author
 
-Mohannad Abu-Najie
+Mohanad Abu-Najie
