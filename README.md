@@ -90,7 +90,7 @@ The player **passes** when the number of correct answers is greater than or equa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Math_Quiz.git
+git clone https://github.com/mohanad2005-dev/Math_Quiz.git
 ```
 
 2. Open the `.sln` file in Visual Studio.
